@@ -1,10 +1,10 @@
 ---
 permalink: /index.html
 title: ' Eleventy Excellent'
-description: 'WOW Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
+description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
 layout: 'home'
 blog:
-  title: 'Blog'
+  title: 'Gallery Oxholm'
   intro: "wow I'm showing the last 4 blog posts, but there might be more!"
 ---
 
